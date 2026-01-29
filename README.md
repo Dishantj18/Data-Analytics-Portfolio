@@ -41,3 +41,14 @@ Hi, I'm Dishant Jain!  Welcome to my Data Analytics Portfolio. I am a Engineerin
 Tools: Python, Pandas, Seaborn. 
 Goal: Analyzed 2 months of transaction data to assist with inventory, staffing, and expansion decisions.
 Key Insights: Identified peak operational hours, calculated month-over-month revenue growth, and determined the most popular payment methods.
+
+### 5. 💊 Pharmacy Inventory Database (SQL)
+* Project Type: Relational Database Design & Querying.
+* Objective: To design a normalized database schema for a pharmacy to track inventory, suppliers, and sales.
+* Tools Used: MySQL, DDL/DML Commands, Joins, Subqueries.
+* **Key Actions Performed:**
+    * Schema Design: Created a relational schema with 4 tables (`Medicines`, `Suppliers`, `Purchases`, `Sales`) using Primary and Foreign Keys.
+    * Complex Queries: Wrote SQL queries to identify expiring stock, calculate total revenue per medicine, and track supplier performance.
+    * Data Integrity: Implemented constraints to ensure accurate data entry.
+* **Files:** * [View SQL Code](Pharmacy_Queries.sql)
+    * [View Execution Results & Screenshots (PDF)](SQL_Project_Results.pdf)
