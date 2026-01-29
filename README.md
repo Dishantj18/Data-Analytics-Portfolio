@@ -57,3 +57,16 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
 * Tools: Descriptive Statistics, Hypothesis Testing, Probability Distributions.
 * Goal: Applied statistical concepts to solve real-world business scenarios. 
 * Topics Covered: Central Tendency, Measures of Dispersion, A/B Testing (Hypothesis Testing), and Sampling Techniques.
+
+### 6. 🧪 Customer Insights: A Statistical Investigation (Python)
+* Project Type: Statistical Analysis & Hypothesis Testing.
+* Objective: To validate business assumptions about customer behavior using rigorous statistical methods.
+* Tools Used: Python (Pandas, Scipy, Statsmodels), Matplotlib, Seaborn.
+* **Key Statistical Tests:**
+    * T-Test: Tested if there is a significant spending difference between genders (Null Hypothesis rejected/accepted).
+    * ANOVA: Analyzed if `Education Level` impacts `Monthly Spend`.
+    * Chi-Square: Examined the relationship between `Marital Status` and `Pet Ownership`.
+* **Business Insight:** Identified key demographic segments (e.g., Master's degree holders) with significantly higher interaction rates to target for marketing campaigns.
+* **Files:** [View Analysis Notebook](Customer_Insights_Analysis.ipynb)
+
+![Analysis Preview](Stats_Results.png)
