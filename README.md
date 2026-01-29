@@ -52,3 +52,8 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
     * Data Integrity: Implemented constraints to ensure accurate data entry.
 * **Files:** * [View SQL Code](Pharmacy_Queries.sql)
     * [View Execution Results & Screenshots (PDF)](SQL_Project_Results.pdf)
+ 
+### Project: Statistical Problem Solving for Business 
+* Tools: Descriptive Statistics, Hypothesis Testing, Probability Distributions.
+* Goal: Applied statistical concepts to solve real-world business scenarios. 
+* Topics Covered: Central Tendency, Measures of Dispersion, A/B Testing (Hypothesis Testing), and Sampling Techniques.
