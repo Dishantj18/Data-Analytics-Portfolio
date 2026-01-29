@@ -1,6 +1,7 @@
 # Data-Analytics-Portfolio
 Hi, I'm Dishant Jain!  Welcome to my Data Analytics Portfolio. I am a Engineering graduate transitioning to Data Analytics. This portfolio showcases projects using SQL, Python, Power BI, and Tableau. Includes work on Sales Dashboards, Exploratory Data Analysis (EDA), and Database Management. Passionate about deriving business insights from data.
-1.COVID-19 Global Dashboard (Excel)
+
+### 1.COVID-19 Global Dashboard (Excel)
 * Project Type: Data Cleaning & Diagnostic Analysis.
 * Objective: To analyze the spread of COVID-19 across WHO Regions and identify high-impact zones.
 * Tools Used: Advanced Excel (Pivot Tables, Conditional Formatting, Data Cleaning).
@@ -35,3 +36,8 @@ Hi, I'm Dishant Jain!  Welcome to my Data Analytics Portfolio. I am a Engineerin
 * **Files:** [View Excel File](Workforce_Sales_Dashboard.xlsx)
 
 ![Dashboard Preview](Workforce_Dashboard_View.png)
+
+### 4.Project: CoffeeConnect Café Chain Analysis 
+Tools: Python, Pandas, Seaborn. 
+Goal: Analyzed 2 months of transaction data to assist with inventory, staffing, and expansion decisions.
+Key Insights: Identified peak operational hours, calculated month-over-month revenue growth, and determined the most popular payment methods.
