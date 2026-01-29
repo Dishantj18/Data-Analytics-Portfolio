@@ -11,3 +11,15 @@ Hi, I'm Dishant Jain!  Welcome to my Data Analytics Portfolio. I am a Engineerin
 * Files:[View Excel File](COVID-19 Global Dashboard.xlsx)
 
 ![Dashboard Preview](COVID_Dashboard_View.png)
+
+### 2. 📦 Amazon Workforce Sales Analysis (Excel)
+* Project Type: Data Modeling & KPI Reporting.
+* Objective: To analyze sales performance, delivery efficiency, and regional trends using a relational dataset.
+* Tools Used: Excel Data Modeling (Power Pivot), GETPIVOTDATA, Pivot Charts.
+* *Key Actions Performed:*
+    * Data Modeling: Connected multiple dimension tables (`ProductTbl`, `RegionTbl`, `CustomerTbl`) to the main `SalesTbl` using relationships (Star Schema).
+    * Advanced Reporting: Used `GETPIVOTDATA` to extract specific metrics for dynamic KPI cards.
+    * Analysis: Calculated total revenue ($14.5M) and analyzed "Average Delivery Days" by region.
+* **Files:** [View Excel File](Amazon_Workforce_Sales_Data_Analysis.xlsx)
+
+![Dashboard Preview](Amazon_Dashboard_View.png)
