@@ -83,3 +83,24 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
 * **Files:**
     * [View Analysis Report & Outcomes (PDF)](Retail_Store_Analysis_Report.pdf)
     * [View Database Setup Code](Retail_Store_Schema_and_Data.sql)
+ 
+  ### 5. 📊 Student Lifestyle & Well-being Analysis (Power BI)
+* Project Type: Interactive Dashboard & Data Storytelling.
+* Objective: To analyze the correlation between social media usage and students' sleep patterns, academic performance, and mental health.
+* Tools Used: Power BI, DAX, Power Query.
+* **Key Technical Features:**
+    * Data Modeling: Built a **Star Schema** with a 1:1 relationship between `Student Details` and `Platform Details` tables.
+    * Advanced Interactivity: Implemented **Bookmarks & Selection Panes** to toggle between "Gender View" and "Academic View".
+    * Drill-Through: Created a dedicated profile page to drill down into individual student metrics from the main report.
+    * DAX Measures: Calculated complex metrics like `% Affected Academically` and `Addicted Student Count` using `CALCULATE` and `DIVIDE`.
+* **Files:** [Download Dashboard File](Student_Lifestyle_Dashboard.pbix)
+
+### Dashboard Previews:
+**1. Executive Overview:**
+![Overview](Overview_Page.png)
+
+**2. Interactive Bookmark View:**
+![Interactive](Interactive_View.png)
+
+**3. Student Detail Drill-Through:**
+![Drill Through](Drill_Through.png)
