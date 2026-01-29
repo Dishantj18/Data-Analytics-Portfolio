@@ -23,3 +23,15 @@ Hi, I'm Dishant Jain!  Welcome to my Data Analytics Portfolio. I am a Engineerin
 * **Files:** [View Excel File](Amazon_Workforce_Sales_Data_Analysis.xlsx)
 
 ![Dashboard Preview](Amazon_Dashboard_View.png)
+
+### 3. 👥 Workforce & Sales Intelligence Dashboard (Excel)
+* Project Type: HR & Sales Performance Analytics.
+* Objective: To merge employee data with sales records to evaluate workforce performance against benchmarks.
+* Tools Used: XLOOKUP (for data merging), Pivot Tables, Slicers, Conditional Formatting.
+* *Key Actions Performed:*
+    * Data Integration: Used **XLOOKUP** to merge disparate datasets (`tblEmployees` and `tblSales`) to map sales figures to specific departments and roles.
+    * Performance Benchmarking: Compared individual employee sales against standardized `tblBenchmarks` to calculate performance ratings.
+    * Interactive Reporting:Built a dynamic dashboard with **Slicers** to filter performance data by Department and Region instantly.
+* **Files:** [View Excel File](Workforce_Sales_Dashboard.xlsx)
+
+![Dashboard Preview](Workforce_Dashboard_View.png)
