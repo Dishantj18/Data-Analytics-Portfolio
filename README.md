@@ -84,7 +84,7 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
     * [View Analysis Report & Outcomes (PDF)](Retail_Store_Analysis_Report.pdf)
     * [View Database Setup Code](Retail_Store_Schema_and_Data.sql)
  
-  ### 5. 📊 Student Lifestyle & Well-being Analysis (Power BI)
+  ### 8. 📊 Student Lifestyle & Well-being Analysis (Power BI)
 * Project Type: Interactive Dashboard & Data Storytelling.
 * Objective: To analyze the correlation between social media usage and students' sleep patterns, academic performance, and mental health.
 * Tools Used: Power BI, DAX, Power Query.
@@ -104,3 +104,21 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
 
 **3. Student Detail Drill-Through:**
 ![Drill Through](Drill_Through.png)
+
+### 9. ✈️ Airline Performance & Passenger Satisfaction (Power BI)
+* Project Type: Business Intelligence & KPI Tracking.
+* Objective: To analyze flight performance data to identify factors contributing to delays and passenger dissatisfaction.
+* Tools Used: Power BI, Power Query, DAX.
+* **Key Insights & Features:**
+    * Performance Metrics: Visualized key metrics such as **On-Time Performance (OTP)**, **Average Delay Minutes**, and **Customer Satisfaction Scores**.
+    * Root Cause Analysis: Drilled down into delay causes (Weather, Carrier, Security) to identify the biggest operational bottlenecks.
+    * Passenger Segmentation: Analyzed satisfaction levels across different travel classes (Business vs. Economy) and travel types.
+    * Interactive Elements: Used Slicers to filter data by Airline, Month, and Type of Travel for dynamic reporting.
+* **Files:**
+    * [Download Dashboard File](Airline_Performance_Dashboard.pbix)
+    * [View Source Data](AirlinePerformance.csv)
+
+### Dashboard Preview:
+**1. Executive Overview:**
+![Overview](Airline_Dashboard_Overview.png)
+
