@@ -122,3 +122,21 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
 **1. Executive Overview:**
 ![Overview](Airline_Dashboard_Overview.png)
 
+### 10. 🏡 Real Estate Market Analysis (Tableau)
+* Project Type: Interactive Dashboard & Policy Analytics.
+* Objective: To analyze 10 years of property transaction data (2011-2022) to assist the Municipal Planning Board in zoning and taxation decisions.
+* Tools Used: Tableau Public, Calculated Fields, Parameters.
+* **Key Technical Features:**
+    * Dynamic Parameters: Implemented a toggle control allowing users to switch views between **Sale Amount** and **Assessed Value** instantly.
+    * Advanced Interactivity: Added **URL Actions** to link town names to external real estate portals and **Highlight Actions** for cross-chart analysis.
+    * Geospatial Analysis: Built map visualizations to identify high-value zones and sale ratio disparities across the region.
+    * Storytelling: Created a "Tableau Story" to narrate trends in property types and town-wise performance over the last decade.
+* **Files:**
+    * [Download Tableau Workbook](Real_Estate_Market_Dashboard.twbx)
+  
+### Dashboard Previews:
+**1. Regional Market Overview:**
+![Main Dashboard](Dashboard_Main_View.png)
+
+**2. Town-wise Performance Story:**
+![Story Mode](Story_Insights.png)
