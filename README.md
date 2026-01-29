@@ -70,3 +70,16 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
 * **Files:** [View Analysis Notebook](Customer_Insights_Analysis.ipynb)
 
 ![Analysis Preview](Stats_Results.png)
+
+### 7. 🛍️ Retail Store Database Analysis (SQL)
+* Project Type: Relational Database Management & Business Analysis.
+* Objective: To build a normalized retail database and analyze sales performance, inventory, and customer behavior.
+* Tools Used: SQL (Joins, Subqueries, Aggregations, DDL/DML).
+* Database Schema:Designed 6 relational tables: `Customers`, `Products`, `Orders`, `Order_Items`, `Payments`, and `Reviews`.
+* **Key Analysis Performed:**
+    * Revenue Analysis: Calculated total revenue, average order value, and top-performing product categories.
+    * Customer Segmentation: Identified active vs. inactive customers and high-value clients using Subqueries.
+    * Inventory Management: Identified out-of-stock products and low-inventory alerts.
+* **Files:**
+    * [View Analysis Report & Outcomes (PDF)](Retail_Store_Analysis_Report.pdf)
+    * [View Database Setup Code](Retail_Store_Schema_and_Data.sql)
