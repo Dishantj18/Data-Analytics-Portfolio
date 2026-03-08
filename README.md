@@ -140,3 +140,20 @@ Key Insights: Identified peak operational hours, calculated month-over-month rev
 
 **2. Town-wise Performance Story:**
 ![Story Mode](Story_Insights.png)
+
+# UPI Transaction Analysis: The Nagpur Expansion Case Study
+**Author:** Dishant Jain  
+**Tools:** MySQL, Python (Pandas/Seaborn), Power BI
+
+## 📌 Project Overview
+This project analyzes "BharatPay-UPI" performance during its expansion into **Nagpur**. It identifies infrastructure bottlenecks causing a 6% failure rate and security risks associated with rooted devices in the **Maharashtra cluster**.
+
+## 🛠️ Technical Workflow
+1. **Data Quality (Step 2):** Documented cleaning actions and converted Boolean flags to Binary for statistical analysis.
+2. **SQL Design (Step 3-4):** Created a relational schema with full referential integrity.
+3. **Python Analytics (Step 6-7):** Proved the correlation between `risk_score` and `fraud_flag` using a Heatmap.
+4. **Power BI Dashboards (Step 8):** Developed interactive visuals to track peak-hour failures in local markets like **Sitabuldi**.
+
+## 💡 Key Recommendations
+* Deploy **Edge Computing** in Nagpur to reduce evening latency.
+* Implement **Adaptive MFA** for rooted devices to minimize fraud.
